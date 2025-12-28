@@ -1,4 +1,4 @@
-<img width="457" height="276" alt="image" src="https://github.com/user-attachments/assets/a31b2137-6690-4beb-ae28-2abb0ea0df11" />-# EX-06 - Looping
+# EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
 
